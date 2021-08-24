@@ -48,3 +48,13 @@
 &nbsp;
 ![screenshot-desktop](https://puu.sh/GwPLE/3be580156a.png)
 <img alt="screenshot-mobile" width=400 src="https://puu.sh/GwPLS/0bcb566d23.png" />
+
+# Additional Setup
+
+Copy `.env.local.example` to `.env.local`
+
+```bash
+cp -r .env.local.example .env.local
+```
+
+Obtain and use local spotify api credentials
